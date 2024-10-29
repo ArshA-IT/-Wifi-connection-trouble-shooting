@@ -1,13 +1,12 @@
 Basic Wi-Fi Connection Troubleshooting Sites
+
 Microsoft - Fix Wi-Fi connection issues in Windows
 
-URL: Fix Wi-Fi connection issues in Windows
+URL:https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c  
 Description: A guide from Microsoft that helps users troubleshoot and fix Wi-Fi connection issues on Windows devices.
-Apple - If your Mac isn't connecting to the Internet
 
-URL: If your Mac isn't connecting to the Internet
-Description: Apple’s troubleshooting guide for resolving Wi-Fi connection problems on Mac computers.
-Google - Fix Wi-Fi connection issues
+Digital Trends - Wi-Fi not working? How to fix the most common Wi-Fi problems
 
-URL: Fix Wi-Fi connection issues
-Description: A support page that provides steps to troubleshoot Wi-Fi connection issues for Google Home devices, applicable to general Wi-Fi troubleshooting                                          .
+URL: Wi-Fi not working? How to fix the most common Wi-Fi problems
+Description: A detailed article that covers common Wi-Fi problems and offers solutions to fix them. 
+
