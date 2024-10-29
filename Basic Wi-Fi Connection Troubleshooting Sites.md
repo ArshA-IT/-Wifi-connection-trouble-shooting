@@ -7,6 +7,6 @@ Description: A guide from Microsoft that helps users troubleshoot and fix Wi-Fi 
 
 Digital Trends - Wi-Fi not working? How to fix the most common Wi-Fi problems
 
-URL: Wi-Fi not working? How to fix the most common Wi-Fi problems
+URL: https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide
 Description: A detailed article that covers common Wi-Fi problems and offers solutions to fix them. 
 
